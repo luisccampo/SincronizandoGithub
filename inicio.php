@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Bienvenido al Curso de Git<h1/>
     <?php 
         echo "Hola Git";
     ?>
